@@ -1,2 +1,2 @@
 text = "Привет мир!"
-print(text[0])
+print(text)
